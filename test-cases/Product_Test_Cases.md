@@ -194,8 +194,8 @@ The selected product should be removed from the shopping cart.
 
 ### Actual Result
 
-To be completed during test execution.
+The selected product was successfully removed from the shopping cart.
 
 ### Status
 
-Not Executed
+Passed
