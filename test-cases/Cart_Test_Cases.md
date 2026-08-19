@@ -159,8 +159,7 @@ The user should be redirected to the Shopping Cart page.
 
 ### Actual Result
 
-To be completed during test execution.
-
+The Shopping Cart page opened successfully when the cart icon was clicked.
 ### Status
 
-Not Executed
+Passed
