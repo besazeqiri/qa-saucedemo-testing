@@ -160,11 +160,11 @@ The cart should display the selected product.
 
 ### Actual Result
 
-To be completed during test execution.
+The selected product was successfully added to the shopping cart. The cart displayed the product with the correct price.
 
 ### Status
 
-Not Executed
+Passed
 
 
 ---
