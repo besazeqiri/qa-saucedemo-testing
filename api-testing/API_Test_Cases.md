@@ -31,11 +31,11 @@ The API should return HTTP status code 200 and a list of posts.
 
 ### Actual Result
 
-To be completed during test execution.
+The API returned HTTP status code 200 and successfully returned a list of posts in JSON format.
 
 ### Status
 
-Not Executed
+Passed
 
 ---
 
