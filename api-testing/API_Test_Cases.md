@@ -60,11 +60,11 @@ The API should return HTTP status code 200 and the requested post.
 
 ### Actual Result
 
-To be completed during test execution.
+The API returned HTTP status code 200 and successfully returned the requested post with ID 1 as a JSON object.
 
 ### Status
 
-Not Executed
+Passed
 
 ---
 
