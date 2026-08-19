@@ -108,11 +108,13 @@ An appropriate error message should be displayed and the user should not be logg
 
 ### Actual Result
 
-To be completed during test execution.
+The application rejected the invalid password and displayed the following error message:
+
+"Epic sadface: Username and password do not match any user in this service"
 
 ### Status
 
-Not Executed
+Passed
 
 
 ---
