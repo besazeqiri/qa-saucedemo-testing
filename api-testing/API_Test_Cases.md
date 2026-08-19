@@ -156,11 +156,11 @@ The API should return HTTP status code 200 and return the updated post data.
 
 Actual Result
 
-To be completed during test execution.
+The API successfully updated the post and returned HTTP status code 200 OK. The response contained the updated title, body, ID, and userId.
 
 Status
 
-Not Executed
+Passed
 
 Test Case 6
 
