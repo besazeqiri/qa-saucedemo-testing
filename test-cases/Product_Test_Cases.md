@@ -90,11 +90,11 @@ The product price should be displayed correctly and should use the expected curr
 
 ### Actual Result
 
-To be completed during test execution.
+Product prices were displayed correctly with the expected currency format.
 
 ### Status
 
-Not Executed
+Passed
 
 
 ---
