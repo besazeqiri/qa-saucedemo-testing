@@ -194,11 +194,11 @@ A confirmation message should be displayed indicating that the order has been co
 
 ### Actual Result
 
-To be completed during test execution.
+The checkout process was completed successfully and the confirmation message "Thank you for your order!" was displayed.
 
 ### Status
 
-Not Executed
+Passed
 
 
 ---
