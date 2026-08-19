@@ -94,11 +94,11 @@ The selected product should be removed from the shopping cart.
 
 ### Actual Result
 
-To be completed during test execution.
+Sauce Labs Backpack was successfully removed from the shopping cart, while Sauce Labs Bike Light remained in the cart.
 
 ### Status
 
-Not Executed
+Passed
 
 
 ---
