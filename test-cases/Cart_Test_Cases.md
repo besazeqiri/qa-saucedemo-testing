@@ -128,11 +128,11 @@ The product price in the cart should match the product price displayed on the Pr
 
 ### Actual Result
 
-To be completed during test execution.
+The product price displayed on the Products page matched the price displayed in the shopping cart: $29.99.
 
 ### Status
 
-Not Executed
+Passed
 
 
 ---
