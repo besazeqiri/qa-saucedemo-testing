@@ -123,12 +123,11 @@ Expected Result
 The API should return HTTP status code 201 and return the created post data.
 
 Actual Result
-
-To be completed during test execution.
+The API successfully created the new post and returned HTTP status code 201 Created. The response contained the submitted title, body, userId, and a generated post ID of 101.
 
 Status
+Passed
 
-Not Executed
 Test Case 5
 
 Test Case ID: API-005
