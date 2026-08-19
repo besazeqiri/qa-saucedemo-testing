@@ -60,11 +60,11 @@ Both selected products should appear in the shopping cart.
 
 ### Actual Result
 
-To be completed during test execution.
+Both selected products were successfully added to the shopping cart and displayed correctly with their respective names and prices.
 
 ### Status
 
-Not Executed
+Passed
 
 
 ---
