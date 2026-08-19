@@ -144,6 +144,7 @@ Request Body
   "body": "This post was updated during API testing.",
   "userId": 1
 }
+
 Test Steps
 Send a PUT request to /posts/1.
 Add the request body as JSON.
