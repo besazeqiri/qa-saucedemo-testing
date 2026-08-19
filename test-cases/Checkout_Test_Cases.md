@@ -226,8 +226,8 @@ The user should be returned to the previous page without completing the checkout
 
 ### Actual Result
 
-To be completed during test execution.
+The checkout process was cancelled successfully and the user was redirected to the Products page.
 
 ### Status
 
-Not Executed
+Passed
