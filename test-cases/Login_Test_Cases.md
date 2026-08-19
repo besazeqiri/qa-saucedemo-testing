@@ -148,11 +148,13 @@ A validation/error message should be displayed and the user should not be logged
 
 ### Actual Result
 
-To be completed during test execution.
+The application rejected the login attempt and displayed the following error message:
+
+"Epic sadface: Username is required"
 
 ### Status
 
-Not Executed
+Passed
 
 
 ---
