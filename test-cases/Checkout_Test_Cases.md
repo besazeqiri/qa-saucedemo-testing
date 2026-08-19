@@ -37,11 +37,11 @@ The selected product and order information should be displayed correctly.
 
 ### Actual Result
 
-To be completed during test execution.
+The user successfully proceeded to the Checkout Overview page using valid customer information. The selected product and order information were displayed correctly.
 
 ### Status
 
-Not Executed
+Passed
 
 
 ---
