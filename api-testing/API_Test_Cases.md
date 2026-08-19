@@ -88,11 +88,11 @@ The API should return HTTP status code 404 because the requested post does not e
 
 ### Actual Result
 
-To be completed during test execution.
+The API returned HTTP status code 404 Not Found and an empty JSON object because the requested post does not exist.
 
 ### Status
 
-Not Executed
+Passed
 
 ---
 
