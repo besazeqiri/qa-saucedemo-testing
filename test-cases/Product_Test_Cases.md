@@ -125,12 +125,11 @@ The product name, description, price and image should be displayed.
 
 ### Actual Result
 
-To be completed during test execution.
+The product details page opened successfully and displayed the product name, description, price, image, and Add to cart button.
 
 ### Status
 
-Not Executed
-
+Passed
 
 ---
 
