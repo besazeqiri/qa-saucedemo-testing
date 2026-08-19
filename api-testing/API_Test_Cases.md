@@ -180,8 +180,8 @@ The API should return HTTP status code 200 and confirm that the request was proc
 
 Actual Result
 
-To be completed during test execution.
+The API successfully processed the DELETE request and returned HTTP status code 200 OK with an empty JSON response.
 
 Status
 
-Not Executed
+Passed
